@@ -11,3 +11,4 @@ lib/XMLRPC/Transport/TCP.pm
 t/07-xmlrpc_payload.t
 t/26-xmlrpc.t
 t/37-mod_xmlrpc.t
+t/XMLRPC-Lite.t
