@@ -1,0 +1,13 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+lib/Apache/XMLRPC/Lite.pm
+lib/XMLRPC/Lite.pm
+lib/XMLRPC/Test.pm
+lib/XMLRPC/Transport/HTTP.pm
+lib/XMLRPC/Transport/POP3.pm
+lib/XMLRPC/Transport/TCP.pm
+t/07-xmlrpc_payload.t
+t/26-xmlrpc.t
+t/37-mod_xmlrpc.t
