@@ -12,5 +12,10 @@ WriteMakefile(
         'SOAP::Transport::TCP' => 0.715
     },
     ABSTRACT_FROM => 'lib/XMLRPC/Lite.pm',
-    AUTHOR        => 'Paul Kulchenko (paulclinger@yahoo.com)'
+    AUTHOR        => 'Paul Kulchenko (paulclinger@yahoo.com)',
+    META_MERGE        => {
+        resources => {
+            repository  =>  'https://github.com/redhotpenguin/perl-XMLRPC-Lite',
+        },
+    },
 );
